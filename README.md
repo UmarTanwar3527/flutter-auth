@@ -1,4 +1,4 @@
-# myapp
+# flutter auth and sign in with google
 
 A new Flutter project.
 
