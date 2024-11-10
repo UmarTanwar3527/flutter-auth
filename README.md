@@ -74,7 +74,3 @@ flutter pub add firebase_core firebase_auth provider
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute, please fork the repository and make a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
